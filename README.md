@@ -7,7 +7,7 @@ scNEAT is a pipeline to analyze NEAT-seq data containing five analyses:
 5) Regression analysis to detect co-target genes of two TFs.
 
 # Dependencies
-Python:  
+(1) Python:  
 Python 3.8.1  
 Pytorch 1.6.0  
 Scanpy 1.6.0  
@@ -15,7 +15,7 @@ SKlearn 0.22.1
 Numpy 1.18.1  
 h5py 2.9.0  
 
-#R:  
+(2) R:  
 Seurat 4.2.0  
 rhdf5 2.38.1   
 chromVAR 1.16.0  
