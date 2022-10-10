@@ -21,6 +21,6 @@ rhdf5 2.38.1
 chromVAR 1.16.0  
 JASPAR2016 1.22.0  
 chromVARmotifs 0.2.0  
-motifmatchr 1.16.0
-SingleCellExperiment 1.16.0
+motifmatchr 1.16.0  
+SingleCellExperiment 1.16.0  
 BiocParallel 1.28.3
